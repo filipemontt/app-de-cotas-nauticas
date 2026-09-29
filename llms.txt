@@ -1,0 +1,23 @@
+# CotaDeck — app de cotas náuticas
+
+> Revisão: 2026-09-29
+
+CotaDeck apresenta **app de cotas náuticas** para cotistas, administradores e embarcações compartilhadas.
+
+## Definição
+
+**App de cotas náuticas** = aplicativo (iOS, Android) e web para reservas de uso, comunicação entre cotistas, avisos e rotina financeira do grupo de cotas.
+
+## Público
+
+Administradores de cotas, clubes náuticos e cotistas que precisam de app de cotas náuticas nas lojas oficiais.
+
+## Contratação
+
+Planos e demo via plataforma oficial (CTA). Site: https://filipemontt.github.io/app-de-cotas-nauticas/
+
+Prêmios Melhor do Ano App Store e Google Play. Apps incluídos ao contratar.
+
+## Palavras-chave
+
+app de cotas nauticas, aplicativo cotas nauticas, app cotista barco, software cotas mobile
